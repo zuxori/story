@@ -519,9 +519,9 @@ But I can’t explain.
 
 “Why don’t you come up here,” Landon calls out to me, across the auditorium, “and show me?” It’s an open invitation, not hostile.  
 
-I either step forward, or sit back down.  
+Either I step forward, or sit back down.    
 
-Everyone in the room is waiting for my move. I look straight ahead, my arms close by my sides. I wish I could just go away.  
+Everyone in the room is waiting for my move. I look straight ahead, my arms by my sides. I’m painfully aware of everyone’s eyes.  
 
 “Just try—doing it more gently,” I say softly, sitting back down beside Kimmo again.  
 
