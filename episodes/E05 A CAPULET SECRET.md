@@ -515,7 +515,7 @@ Tai is shaking his head. “Such old-fashioned thinking,” he says. “‘*You 
 
 I’m disoriented.  
 
-“If you must know,” Tai says leisurely. “My uncle, the chairman of Zhu perfumes, purchased the House of Capulet last year.”  
+“If you must know,” Tai says leisurely. “My uncle, the chairman of Zhu perfumes, purchased the House of Capulet several years ago.”  
 
 Zhu?  
 
