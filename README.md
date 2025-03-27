@@ -25,6 +25,27 @@ Will Zu and Ori repeat their tragedy—or fulfill destiny?
 
 ---
 
+## 📖 Full Story Episodes
+
+All story content lives in the [`/episodes`](https://github.com/zuxori/story/tree/main/episodes) folder, organized by episode and scene.
+
+1. [E1 Zu](https://github.com/zuxori/story/blob/main/episodes/E01%20ZU.md)  
+2. [E2 Crash](https://github.com/zuxori/story/blob/main/episodes/E02%20CRASH.md)  
+3. [E3 Verona](https://github.com/zuxori/story/blob/main/episodes/E03%20VERONA.md)  
+4. [E4 500 Years](https://github.com/zuxori/story/blob/main/episodes/E04%20500%20YEARS.md)  
+5. [E5 A Capulet Secret](https://github.com/zuxori/story/blob/main/episodes/E05%20A%20CAPULET%20SECRET.md)  
+6. [E6 Forget Me Not](https://github.com/zuxori/story/blob/main/episodes/E06%20FORGET%20ME%20NOT.md)  
+7. [E7 I Trusted You](https://github.com/zuxori/story/blob/main/episodes/E07%20I%20TRUSTED%20YOU.md)  
+8. [E8 Two Houses Alike](https://github.com/zuxori/story/blob/main/episodes/E08%20TWO%20HOUSES%20ALIKE.md)  
+9. [E9 Timelines](https://github.com/zuxori/story/blob/main/episodes/E09%20TIMELINES.md)  
+10. [E10 Love Awakens](https://github.com/zuxori/story/blob/main/episodes/E10%20LOVE%20AWAKENS.md)  
+11. [E11 Forgivness](https://github.com/zuxori/story/blob/main/episodes/E11%20FORGIVNESS.md)  
+12. [E12 For All Humanity](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md)  
+13. [Prologue](https://github.com/zuxori/story/blob/main/episodes/PROLOGUE.md)
+
+
+---
+
 ## 🌌 Themes & Concepts
 
 - **Reincarnation & Memory**: What if your past life was shaping your future?  
