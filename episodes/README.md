@@ -16,7 +16,7 @@ This folder contains the full narrative arc of **ZU X ORI**, told across multipl
 - E8 Two Houses Alike  
 - E9 Timelines  
 - E10 Love Awakens  
-- E11 Forgivness  
+- E11 Forgiveness  
 - E12 For All Humanity  
 - Prologue
 
