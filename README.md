@@ -39,7 +39,7 @@ All story content lives in the [`/episodes`](https://github.com/zuxori/story/tre
 8. [E8 Two Houses Alike](https://github.com/zuxori/story/blob/main/episodes/E08%20TWO%20HOUSES%20ALIKE.md)  
 9. [E9 Timelines](https://github.com/zuxori/story/blob/main/episodes/E09%20TIMELINES.md)  
 10. [E10 Love Awakens](https://github.com/zuxori/story/blob/main/episodes/E10%20LOVE%20AWAKENS.md)  
-11. [E11 Forgivness](https://github.com/zuxori/story/blob/main/episodes/E11%20FORGIVNESS.md)  
+11. [E11 Forgiveness](https://github.com/zuxori/story/blob/main/episodes/E11%20FORGIVENESS.md)  
 12. [E12 For All Humanity](https://github.com/zuxori/story/blob/main/episodes/E12%20FOR%20ALL%20HUMANITY.md)  
 13. [Prologue](https://github.com/zuxori/story/blob/main/episodes/PROLOGUE.md)
 
