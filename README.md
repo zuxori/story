@@ -47,7 +47,7 @@ All story content lives in the [`/episodes`](https://github.com/zuxori/story/tre
 
 ## 🧭 Deep Lore
 
-The historical, mythic, and metaphysical underpinnings of ZU X ORI — from ancient Verona to Revolutionary France, and into the present-day story of Zu and Ori — are documented in the [Lore Archive](https://github.com/zuxori/story/blob/main/ZUXORI_lore.md).
+The historical, mythic, and metaphysical underpinnings of ZU X ORI — from ancient Verona to Revolutionary France, and into the present-day story of Zu and Ori — are documented in the [Lore Archive](https://github.com/zuxori/story/blob/main/ZUXORI-lore.md).
 
 Explore the origins of the Capulet dynasty, the rise of the Montague Initiates, and the scent-bound prophecy that connects them across lifetimes.
 
