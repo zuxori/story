@@ -98,7 +98,7 @@ If you build something inspired by ZU X ORI — tell us. We'd love to see it.
 ## 📬 Contact & Updates
 
 - Website: [zuxori.com](https://zuxori.com)  
-- Instagram: [@zu_x_ori](https://instagram.com/zu_x_ori)
+- Instagram: [@zuxori.official](https://instagram.com/zuxori.official)
 
 ---
 
